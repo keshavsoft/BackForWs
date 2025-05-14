@@ -1,0 +1,9 @@
+POST http://localhost:3000/V1/Tasks/InsertWithColumns
+Content-Type: application/json
+
+{
+  "title": "3rd",
+                "start": "2025-05-14",
+                "className": "bg-success"
+  
+}

@@ -1,0 +1,8 @@
+{
+    "TableName": "Tasks",
+    "Columns": [
+        "className",
+        "start",
+        "title"
+    ]
+}
