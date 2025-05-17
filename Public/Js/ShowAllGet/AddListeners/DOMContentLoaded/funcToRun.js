@@ -18,6 +18,9 @@ let StartFunc = () => {
     });
 
     calendar.render();
+    document.getElementById("RefreshId").addEventListener('click', function(){
+        calendar.refetchEvents();
+    })
 };
 
 export { StartFunc };
