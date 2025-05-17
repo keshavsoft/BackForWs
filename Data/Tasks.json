@@ -16,5 +16,29 @@
     "start": "2025-05-16",
     "title": "Purna",
     "pk": 2
+  },
+  {
+    "className": "bg-danger",
+    "start": "2025-05-19",
+    "title": "EVENT",
+    "pk": 3
+  },
+  {
+    "className": "bg-success",
+    "start": "2025-05-09",
+    "title": "bday",
+    "pk": 4
+  },
+  {
+    "className": "bg-success",
+    "start": "2025-05-26",
+    "title": "inday",
+    "pk": 5
+  },
+  {
+    "className": "bg-success",
+    "start": "2025-06-09",
+    "title": "bday",
+    "pk": 6
   }
 ]
